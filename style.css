@@ -1,0 +1,22 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
+p {
+    color: purple;
+}
+
+ol {
+    color: green;
+}
+
+ul {
+    background-color: purple;
+}
+h3 {
+    font-weight: normal;
+}
